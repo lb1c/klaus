@@ -1,4 +1,4 @@
-pytest
-requests
+pytest==3.2.5
+requests==2.18.4
 python-ctags3>=1.2.1
-mock; python_version < '3'
+mock==2.0.0; python_version < '3'
