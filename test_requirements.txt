@@ -1,4 +1,4 @@
 requests==2.21.0
-pytest==4.0.0
+pytest==4.1.0
 python-ctags3>=1.2.1
 mock==2.0.0; python_version < '3'
